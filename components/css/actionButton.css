@@ -1,0 +1,17 @@
+#arrowLeft {
+    font-size: 1em;
+}
+
+#for-up {
+    transform: rotate(90deg);
+    font-size: 1em;
+}
+
+#for-low {
+    transform: rotate(-90deg);
+    font-size: 1em;
+}
+
+#for-right {
+    transform: rotate(180deg);
+}

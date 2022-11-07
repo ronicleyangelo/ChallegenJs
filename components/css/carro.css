@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    max-width: 100%;
+    font-size: 2rem;
+}
+
+#carro {
+    margin-top: 100px;
+}
+
+#pessoa {
+    margin-left: 50em;
+    margin-top: -21em;
+    width: 160px;
+}
